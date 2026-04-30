@@ -3,11 +3,13 @@ APClips
 Airliners
 Apple Discussions
 Archive.org
+ArtStation
 Bandcamp
-Carbonmade
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
+Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
@@ -15,14 +17,13 @@ Hubski
 LessWrong
 LushStories
 Patched
-Rajce.net
+Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
@@ -35,7 +36,6 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
