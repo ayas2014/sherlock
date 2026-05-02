@@ -1,10 +1,10 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -15,9 +15,8 @@ Hashnode
 Hubski
 LushStories
 Minecraft
-Outgress
 Patched
-Python.org Discussions
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -36,6 +35,8 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
+xHamster
