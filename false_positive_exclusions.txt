@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -13,10 +12,10 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
-Minecraft
 Patched
-Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -35,8 +34,6 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
-xHamster
