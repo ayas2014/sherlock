@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -17,13 +16,14 @@ LessWrong
 LushStories
 Motherless
 Patched
-Pornhub
+Python.org Discussions
 Rarible
 Realmeye
 Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
