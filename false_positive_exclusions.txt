@@ -1,7 +1,7 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
-Archive.org
 ArtStation
 Bandcamp
 Codolio
@@ -16,14 +16,13 @@ LessWrong
 LushStories
 Motherless
 Patched
-Python.org Discussions
+Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
@@ -40,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
