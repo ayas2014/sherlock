@@ -2,6 +2,7 @@
 APClips
 Airliners
 Apple Discussions
+Archive.org
 ArtStation
 Bandcamp
 Codolio
@@ -12,11 +13,11 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Motherless
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,6 +28,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Velomania
@@ -39,4 +41,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
