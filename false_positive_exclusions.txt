@@ -6,6 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -14,13 +15,13 @@ Giphy
 Hashnode
 Hubski
 LushStories
-OurDJTalk
 Patched
 Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -40,4 +41,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
