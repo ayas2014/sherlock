@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -10,13 +11,16 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Hashnode
 Hubski
+Itch.io
 LessWrong
-LushStories
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
+Replit.com
 RocketTube
 Scribd
 Shelf
@@ -31,6 +35,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre
