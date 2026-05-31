@@ -13,6 +13,8 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
+Minecraft
 Patched
 Rarible
 Realmeye
