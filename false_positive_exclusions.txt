@@ -1,5 +1,6 @@
 7Cups
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -11,7 +12,6 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitBook
 Hashnode
 Hubski
 LessWrong
