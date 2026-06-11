@@ -1,6 +1,6 @@
 7Cups
+APClips
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -12,16 +12,20 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -37,6 +41,8 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
+xHamster
