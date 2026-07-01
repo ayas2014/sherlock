@@ -5,11 +5,11 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Chess
+BreachSta.rs Forum
 Codolio
+DEV Community
 DeviantArt
 Discord.bio
-Duolingo
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -25,7 +25,6 @@ Rarible
 Realmeye
 Reddit
 Replit.com
-ReverbNation
 RocketTube
 Scribd
 Shelf
@@ -35,7 +34,6 @@ Spotify
 Trovo
 TryHackMe
 Velomania
-Venmo
 Weblate
 YandexMusic
 authorSTREAM
