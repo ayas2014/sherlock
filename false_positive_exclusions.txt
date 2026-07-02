@@ -2,12 +2,12 @@
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
-DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,8 +16,10 @@ Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -35,9 +37,11 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+WordPress
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 igromania
 interpals
 mercadolivre
