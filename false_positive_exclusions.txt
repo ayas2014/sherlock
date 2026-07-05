@@ -20,6 +20,7 @@ LushStories
 Odysee
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,7 +28,6 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
@@ -44,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
