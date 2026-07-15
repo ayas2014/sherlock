@@ -6,7 +6,6 @@ Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
-CGTrader
 Codolio
 Discord.bio
 Envato Forum
@@ -20,7 +19,6 @@ LushStories
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -40,6 +38,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
