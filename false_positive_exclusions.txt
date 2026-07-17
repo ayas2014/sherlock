@@ -12,8 +12,8 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
-Houzz
 Hubski
 LessWrong
 LushStories
@@ -37,7 +37,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
