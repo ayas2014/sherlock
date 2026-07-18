@@ -10,9 +10,9 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
@@ -40,6 +40,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
