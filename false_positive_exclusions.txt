@@ -5,8 +5,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -17,10 +19,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LessWrong
 LushStories
 Odysee
 PCGamer
+Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -35,7 +38,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
