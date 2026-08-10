@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -18,7 +19,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -34,7 +37,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -42,7 +44,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-dcinside
 igromania
 interpals
 mercadolivre
