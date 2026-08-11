@@ -9,6 +9,7 @@ Bandcamp
 Blogger
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -19,7 +20,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LushStories
 Minecraft
 Odysee
@@ -44,10 +44,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+hunting
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
