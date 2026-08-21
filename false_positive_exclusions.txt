@@ -17,8 +17,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LiveJournal
 LushStories
-Minecraft
 Odysee
 PCGamer
 Rarible
@@ -27,6 +27,7 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
