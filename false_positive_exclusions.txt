@@ -8,6 +8,7 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -19,9 +20,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
-LushStories
-Minecraft
 Odysee
 PCGamer
 Pornhub
@@ -52,4 +50,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
