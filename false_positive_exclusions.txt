@@ -13,7 +13,6 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
@@ -22,7 +21,6 @@ Hubski
 Instapaper
 LushStories
 ObservableHQ
-Odysee
 PCGamer
 Pornhub
 Rarible
@@ -50,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
