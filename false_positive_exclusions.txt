@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -16,12 +17,11 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
-Hive Blog
 Houzz
 Hubski
 Instapaper
-Itch.io
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -36,7 +36,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -44,7 +43,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
@@ -54,3 +52,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
