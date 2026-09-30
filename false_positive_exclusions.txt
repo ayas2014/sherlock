@@ -21,7 +21,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
+LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -34,6 +37,7 @@ RocketTube
 Scribd
 Shelf
 SlideShare
+Snapchat
 Splice
 Spotify
 Trakt
