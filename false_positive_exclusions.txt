@@ -13,6 +13,7 @@ ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -21,8 +22,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
+LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
