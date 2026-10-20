@@ -1,13 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -18,15 +15,14 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-GitHub
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
-LushStories
 ObservableHQ
+Odysee
 PCGamer
 Pornhub
 Rarible
@@ -39,7 +35,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
