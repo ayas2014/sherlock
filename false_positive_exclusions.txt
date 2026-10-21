@@ -1,10 +1,13 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blipfoto
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -42,6 +45,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 interpals
 mercadolivre
@@ -49,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
