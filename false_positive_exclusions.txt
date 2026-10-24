@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -13,6 +12,7 @@ ChaturBate
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -23,7 +23,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -53,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
