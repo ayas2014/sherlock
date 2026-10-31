@@ -1,9 +1,11 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -14,6 +16,8 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitHub
+Gumroad
 HackerNews
 Hashnode
 Houzz
@@ -21,6 +25,7 @@ Hubski
 Instapaper
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -34,6 +39,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Vero
 YandexMusic
@@ -47,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
