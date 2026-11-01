@@ -1,11 +1,9 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -16,13 +14,12 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-GitHub
-Gumroad
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 LushStories
 Minecraft
@@ -53,4 +50,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
