@@ -2,29 +2,25 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-ArtStation
-Bandcamp
+Audiojungle
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Envato Forum
+Eintracht Frankfurt Forum
 GaiaOnline
 GeeksforGeeks
-Giphy
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
-Itch.io
-Linktree
 LushStories
 Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -42,6 +38,7 @@ Vero
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
@@ -50,4 +47,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
