@@ -1,26 +1,22 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Audiojungle
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
 Hubski
 Instapaper
-LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
@@ -31,14 +27,13 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+TnAFlix
 TryHackMe
 Velomania
 Vero
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
