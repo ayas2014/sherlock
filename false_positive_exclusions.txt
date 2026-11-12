@@ -9,13 +9,12 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-GitHub
 HackerNews
+HackerOne
 Hashnode
 Hubski
 Instapaper
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -24,7 +23,6 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
