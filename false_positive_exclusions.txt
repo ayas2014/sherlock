@@ -3,6 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -45,3 +46,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
